@@ -1,0 +1,634 @@
+﻿08/06/2020 09:31:50 ; Mail log dosyası oluşturuldu ; Başarılı
+08/06/2020 09:32:09 ; CC Playground maili Ali Yildirim,Baris Dogan,Bugra Bediz,Burak Elvan,Damla Yildiz,Didem Tusel,Gokcen Arslanturk,Gorkem Mizrak,Gozde Demircan,Hakan Cebeci,Omer Yildirim,Vahan Alyanakyan, adreslerine Baris Dogan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 09:33:23 ; CC Playground maili Ali Yildirim,Baris Dogan,Bugra Bediz,Burak Elvan,Damla Yildiz,Didem Tusel,Gokcen Arslanturk,Gorkem Mizrak,Gozde Demircan,Hakan Cebeci,Omer Yildirim,Vahan Alyanakyan, adreslerine Baris Dogan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 09:35:15 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 09:51:34 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 10:12:54 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 10:15:13 ; CC Playground maili Ali Yildirim,Baris Dogan,Bugra Bediz,Burak Elvan,Damla Yildiz,Didem Tusel,Gokcen Arslanturk,Gorkem Mizrak,Gozde Demircan,Hakan Cebeci,Omer Yildirim,Vahan Alyanakyan, adreslerine Baris Dogan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 10:17:39 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 10:55:43 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 10:57:06 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 11:04:49 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:05:59 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 11:07:05 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:08:48 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:11:08 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:12:17 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:23:54 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:49 ; Acar Menkul-S&#305;zma Testi-2019-FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:50 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Fonlar&#305; 30 June 2019 maili Merve Altunbek, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:50 ; Arçelik A.&#350;. - 15 January 2018 Governmantal Incentive Special Purpose Audit II maili Bora Mutlu,Mustafa Gul,Zeynep Alyanak, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:51 ; B. Braun 2017 maili Yagiz Uysal, adreslerine Beste Ortacxxx,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:51 ; bvt_trprod_may_june_20200723_CP maili Andrei Tiganus, adreslerine Andrei Tiganus, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:52 ; bvt_trprod_may_june_20200723_rf maili Daniel Vrancianu, adreslerine Daniel Vrancianu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:52 ; Ceyhan Polipropilen Üretim A.&#350;. 2019 Audit maili Baran Yilmaz,Yusuf Parlak, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:53 ; Dönper Dan&#305;&#351;manl&#305;k Hiz. A.&#350;  ISAE 3402 2018 maili Albina Sakakli, adreslerine Mehmet Onal,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:53 ; H&#305;zl&#305; Para Odeme Hizmetleri ve Elektronik Para A.S. 2018 BS Denetimi maili Serhat Sener, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:53 ; IC &#304;çta&#351; &#304;n&#351;aat Sanayi ve Ticaret A.&#350;. 2020 Audit maili Ali Erkuru,Yusuf Parlak, adreslerine Burak Ozpoyraz,Gorkem Sokullu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:54 ; Mercedes-S&#305;zma Testi (Notebook)-2019-FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:54 ; Sender Odeme Hizmetleri A.S. BRSA 2017 IT Audit maili Oguzhan Gulen, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:55 ; Tüvturk Kuzey Ta&#351;&#305;t Muayene &#304;stasyonlar&#305; Yap&#305;m ve &#304;&#351;letim A.&#350; maili Gencer Ucan, adreslerine Beste Ortac, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:55 ; Votorantim Q2 Review 2020 maili Volkan Unluyalvac, adreslerine Aysun Gul Kilic,Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:55 ; : Feeder Gemi Acental&#305;&#287;&#305; Ltd. &#350;ti. 31 December 2014 maili Can Ocal, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:56 ; :imenta&#351; 31 12 2017 Group Reporting File for File Review maili Burcu Usta,Ismail Unal,Pinar Talay, adreslerine Mehmet Karakurt, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:56 ; 2018 &#350;ubat Bulgu Takip Denetimi maili Serhat Sener, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:57 ; 2018-Network Testi maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu,Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:57 ; 2019 Bayramo&#287;lu S&#305;zma Testi - A023 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu,Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:58 ; 2019 Moneygram Raporlama Tablosu Kontrolü maili Halil Ucak,Ozkan Kivanc, adreslerine Ozkan Kivanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:26:58 ; 2019 SPK TEST maili Ozlem Kucukgode, adreslerine Ozkan Kivanc, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 11:26:59 ; 2Kids 31 December 2014 maili Muratcan Aksoy, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:27:00 ; 2Kids File Review maili Muratcan Aksoy, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:27:00 ; 30 June 2012 maili Can Basak,Orhan Ozturk,Yelda Sefil, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:27:01 ; 30 June 2013 maili Sercan Bal, adreslerine Caglar Surucu,Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 11:27:01 ; 31 December 2019 TCMB Audit maili Emre Bulut, adreslerine Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:27:14 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:18 ; Acar Menkul-S&#305;zma Testi-2019-FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:19 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Fonlar&#305; 30 June 2019 maili Merve Altunbek, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:19 ; Arçelik A.&#350;. - 15 January 2018 Governmantal Incentive Special Purpose Audit II maili Bora Mutlu,Mustafa Gul,Zeynep Alyanak, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:19 ; B. Braun 2017 maili Yagiz Uysal, adreslerine Beste Ortacxxx,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:20 ; bvt_trprod_may_june_20200723_CP maili Andrei Tiganus, adreslerine Andrei Tiganus, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:20 ; bvt_trprod_may_june_20200723_rf maili Daniel Vrancianu, adreslerine Daniel Vrancianu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:21 ; Ceyhan Polipropilen Üretim A.&#350;. 2019 Audit maili Baran Yilmaz,Yusuf Parlak, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:21 ; Dönper Dan&#305;&#351;manl&#305;k Hiz. A.&#350;  ISAE 3402 2018 maili Albina Sakakli, adreslerine Mehmet Onal,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:22 ; H&#305;zl&#305; Para Odeme Hizmetleri ve Elektronik Para A.S. 2018 BS Denetimi maili Serhat Sener, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:22 ; IC &#304;çta&#351; &#304;n&#351;aat Sanayi ve Ticaret A.&#350;. 2020 Audit maili Ali Erkuru,Yusuf Parlak, adreslerine Burak Ozpoyraz,Gorkem Sokullu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:23 ; Mercedes-S&#305;zma Testi (Notebook)-2019-FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:23 ; Sender Odeme Hizmetleri A.S. BRSA 2017 IT Audit maili Oguzhan Gulen, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:24 ; Tüvturk Kuzey Ta&#351;&#305;t Muayene &#304;stasyonlar&#305; Yap&#305;m ve &#304;&#351;letim A.&#350; maili Gencer Ucan, adreslerine Beste Ortac, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:24 ; Votorantim Q2 Review 2020 maili Volkan Unluyalvac, adreslerine Aysun Gul Kilic,Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:25 ; : Feeder Gemi Acental&#305;&#287;&#305; Ltd. &#350;ti. 31 December 2014 maili Can Ocal, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:25 ; :imenta&#351; 31 12 2017 Group Reporting File for File Review maili Burcu Usta,Ismail Unal,Pinar Talay, adreslerine Mehmet Karakurt, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:26 ; 2018 &#350;ubat Bulgu Takip Denetimi maili Serhat Sener, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:26 ; 2018-Network Testi maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu,Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:27 ; 2019 Bayramo&#287;lu S&#305;zma Testi - A023 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu,Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:27 ; 2019 Moneygram Raporlama Tablosu Kontrolü maili Halil Ucak,Ozkan Kivanc, adreslerine Ozkan Kivanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:27 ; 2019 SPK TEST maili Ozlem Kucukgode, adreslerine Ozkan Kivanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:28 ; 2Kids 31 December 2014 maili Muratcan Aksoy, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:28 ; 2Kids File Review maili Muratcan Aksoy, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:29 ; 30 June 2012 maili Can Basak,Orhan Ozturk,Yelda Sefil, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:29 ; 30 June 2013 maili Sercan Bal, adreslerine Caglar Surucu,Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:30 ; 31 December 2019 TCMB Audit maili Emre Bulut, adreslerine Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:30 ; 3M Audit 2013 maili Elif Imir, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:31 ; 3M Audit 2014 maili Elif Imir, adreslerine Baki Erdal,Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:31 ; 3M Audit 2015 maili Elif Imir, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:32 ; 3M Audit 2016 maili Ceren Ceylan,Elif Imir, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:32 ; 3M Audit 2017 maili Duygu Sonmez,Hatice Bozbas, adreslerine Elif Imir, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:33 ; 3M Audit 2019 maili Hatice Bozbas, adreslerine Coskun Sen,Elif Imir, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:33 ; 3M Sanayi 31 December 2018 Audit maili Hatice Bozbas, adreslerine Elif Imir, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:34 ; 4.0 Test TR Prod maili Manuel Dittmer, adreslerine Christiane Müller, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:34 ; 4.0 Test TR Prod_Copy maili Steffen Wagner, adreslerine Christiane Müller, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:35 ; 4.0 Test TR Prod_RF maili Claude Stötzler, adreslerine Christiane Müller, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:35 ; A Raymond 2013 maili Aydin Ozguven,Baris Dogan, adreslerine Cihan Harman, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:35 ; A Raymond 2014 maili Cansu Aslan, adreslerine Cenk Uslu,Cihan Harman, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:36 ; A Raymond 2015 v6 maili Ceyda Doyuran, adreslerine Cenk Uslu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:36 ; A Raymond 2016 maili Ceyda Doyuran, adreslerine Cenk Uslu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:37 ; A Raymond 2017 maili Ceyda Doyuran, adreslerine Baris Dogan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:37 ; A Raymond 2018 maili Ceyda Doyuran,Ezgi Yilmaz,Murat Turkyilmaz, adreslerine Baris Dogan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:38 ; A Raymond 31 December 2019 maili Murat Turkyilmaz, adreslerine Baris Dogan,Cihan Harman, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:38 ; A Raymond 31 December 2020 maili Murat Turkyilmaz, adreslerine Baris Dogan,Cihan Harman, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:39 ; A Raymond Ltd Sti 2012 maili Baris Dogan, adreslerine Cihan Harman, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:39 ; A&T Finansal Kiralama A.S 31 December 2014 - IFRS maili Nilufer Acar, adreslerine Didem Demer,Zeynep Uras, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:40 ; A&T Finansal Kiralama A.S. 2013 Audit maili Baran Yilmaz,Fatih Aygun,Serhat Sener, adreslerine Didem Demer,Zeynep Uras, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:40 ; A&T Finansal Kiralama A.S. 31 December 2014 maili Nilufer Acar, adreslerine Didem Demer,Zeynep Uras, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:41 ; A&T Finansal Kiralama A.S. 31 December 2015 maili Ebru Cali, adreslerine Didem Demer,Ozberk Cetinkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:41 ; A&T Finansal Kiralama A.S. 31 March 2014 Review maili Fatih Aygun, adreslerine Didem Demer, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:42 ; A&T Leasing 31.12.2015 - File Review Copy maili Ebru Cali, adreslerine Didem Demer,Ozberk Cetinkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:42 ; A.S. Watosn 2014 TTC Reporting maili Zeynep Asali, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:43 ; A.S. Watson 2014 maili Zeynep Asali, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:43 ; A.S. Watson 2015 maili Zeynep Asali, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:44 ; A.S. Watson 2016 maili Selim Elban,Zeynep Asali, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:44 ; A.S. WATSON AUDIT 2016 maili Zeynep Asali, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:45 ; A.S. WATSON statutory reporting and AUP maili Zeynep Asali, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:45 ; A018 S&#305;zma Testi FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:46 ; A045 - Ünlü Menkul ve Portföy S&#305;zma Testi - FY19 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu,Oktay Aktolun, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 14:29:47 ; AAK SAP 2018 maili Bilgen Turgut, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:48 ; AAK SAP 30.09.2019 maili Orkun Ileri, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:48 ; AAK SAP 31.12.2019 maili Gencer Ucan,Orkun Ileri, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:49 ; AAK Turkey 31 December 2014 maili Zeynep Dogru, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:49 ; AAK Turkey 31 December 2015 maili Zeynep Dogru, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:50 ; AAK Turkey 31 December 2016 maili Bilgen Turgut,Zeynep Dogru, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:50 ; AAK Turkey 31 December 2017 maili Bilgen Turgut, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:51 ; AAK Turkey 31 December 2018 maili Bilgen Turgut, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:51 ; AAK Turkey 31 December 2019 maili Gencer Ucan,Orkun Ileri, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:51 ; AAK Turkey SAP 2016 maili Zeynep Dogru, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:52 ; AAK Turkey SAP 2017 maili Bilgen Turgut, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:53 ; Abal&#305;o&#287;lu Ya&#287; 31.12.2019 Audit maili Tugba Teksal, adreslerine Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:53 ; Abal&#305;o&#287;lu Ya&#287; BDDK 2019 maili Buse Sisli,Tugba Teksal, adreslerine Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:54 ; Abal&#305;o&#287;lu Yem 31.12.2019 Audit maili Ezgi Alic,Tugba Teksal, adreslerine Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:54 ; Abal&#305;o&#287;lu Yem 31.12.2019 BDDK maili Ezgi Alic, adreslerine Mehmet Karakurt,Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:55 ; Abal&#305;o&#287;lu Yem Turquality 31.12.2019 maili Ezgi Alic, adreslerine Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:55 ; ABBOTT Actuarial ETB 2015 maili Suncay Senturk, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:56 ; ABBOTT Actuarial ETB 2016 maili Suncay Senturk, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:56 ; ABBOTT Actuarial ETB 2017 maili Suncay Senturk, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:57 ; ABBVIE Actuarial ETB 2015 maili Suncay Senturk, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:57 ; ABBVIE Actuarial ETB 2016 maili Suncay Senturk, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:58 ; ABBVIE Actuarial ETB 2017 Year End maili Suncay Senturk, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:58 ; ABNIC 2015 year end maili Asli Sonmez,Soydan Demiroglu, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:59 ; Accor Audit 2019 maili Yakup Babaoglu, adreslerine Salim Alyanak, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:59 ; Accuride Wheels 31.12.2019 maili Merve Engin, adreslerine Murat Sancar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:29:59 ; ACE 2015 review maili Elcin Toygar, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:00 ; ACE 30 June 2013 review maili Elcin Toygar, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:01 ; ACE Audit 2015 V6 maili Elcin Toygar, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:01 ; ACE Bahrain 2015 maili Asli Sonmez, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:02 ; ACE Bahrain 2016 maili Suncay Senturk, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:02 ; ACE file review 2015 maili Elcin Toygar, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:03 ; ACE Sigorta 30 June 2012 maili Elcin Toygar,Funda Pinar, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:03 ; Ace Sigorta 31 December 2012 maili Elcin Toygar, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:04 ; Ace Sigorta 31 December 2013 maili Elcin Toygar, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:04 ; Ace Sigorta 31 December 2014 maili Elcin Toygar, adreslerine Adnan Akan,Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:05 ; ACE Turkey 2014 review maili Elcin Toygar, adreslerine Adnan Akan,Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:05 ; Ac&#305;badem Siber Güvenlik Deste&#287;i (Temmuz-Ocak) FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:06 ; Ac&#305;badem Siber Güvenlik Deste&#287;i FY20 (Temmuz-Ocak) maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:06 ; Aç&#305;k s&#305;n&#305;f SAP HR E&#287;itimi maili Baris Aybar,Basak Hekimoglu, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:07 ; Aç&#305;k s&#305;n&#305;f SAP SD E&#287;itimi maili Baris Aybar,Basak Hekimoglu, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:08 ; Acik Toplum Vakfi 2012 maili Ramazan Yuksekkaya, adreslerine Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:08 ; Acik Toplum Vakfi 2013 maili Zeynep Asali, adreslerine Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:09 ; Acik Toplum Vakfi 2014 maili Merve Akcam, adreslerine Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:09 ; Acik Toplum Vakfi 2015_v6 maili Deniz Parlak,Merve Akcam, adreslerine Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:10 ; Acik Toplum Vakfi 2016 maili Deniz Parlak, adreslerine Coskun Sen,Elcin Toygar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:10 ; Acik Toplum Vakf&#305; 2017 maili Deniz Parlak,Hazal Yakut, adreslerine Coskun Sen,Elcin Toygar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:11 ; Acino AUP FY20 maili Baris Dogan, adreslerine Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:11 ; Ac&#305;selsan 30 Haziran 2020 Review maili Ismail Unal, adreslerine Mehmet Karakurt, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:12 ; Ac&#305;selsan 30.06.2019 Review maili Hande Gumus, adreslerine Mehmet Karakurt, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:12 ; Ac&#305;selsan FY20 Audit maili Hande Gumus, adreslerine Mehmet Karakurt, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:13 ; ACO Yap&#305; FY20 Audit maili Ali Erkuru, adreslerine Coskun Sen,Elif Imir, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:13 ; ACP AUP 2013 maili Enis Gungor,Ramazan Yuksekkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:14 ; ACP Sigorta Brokerl&#305;g&#305; 31 December 2017 File Review Copy maili Kagan Ozdemir, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:14 ; ACP Sigorta ve Reasürans Brokerli&#287;i  A.&#350;. 31 December 2015 v6 maili Enis Gungor, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:15 ; ACP Sigorta ve Reasürans Brokerli&#287;i  A.&#350;. 31 December 2016 maili Enis Gungor, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:16 ; ACP Sigorta ve Reasurans Brokerligi 2012 maili Enis Gungor,Ramazan Yuksekkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:16 ; ACP Sigorta ve Reasurans Brokerligi 2013 maili Enis Gungor,Ramazan Yuksekkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:17 ; ACP Sigorta ve Reasurans Brokerligi 2014 maili Ramazan Yuksekkaya,Zeynep Atalay, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:17 ; ACP Sigorta ve Reasurans Brokerli&#287;i 31 December 2014 maili Omer Karacoban,Zeynep Atalay, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:18 ; ACP Sigorta ve Reasürans Brokerli&#287;i A.&#350;. 31 December 2017 maili Ege Yavas, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:18 ; Actavis Ilac 2012 maili Beste Ortacxxx, adreslerine Cigdem Ozdemir, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:19 ; Actavis Ilac 2013 maili Sinem Korkmaz, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:20 ; Actavis Ilac 2015 maili Sinem Korkmaz, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:20 ; Actavis Ilac 2016 maili Sinem Korkmaz, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:21 ; Active Polimer 1 April 2011 - 31 March 2012 maili Umit Usta, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:21 ; Active Polimer 1 April 2012 - 31 March 2013 maili Cenk Daldaban,Umit Usta, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:22 ; Active Polimer 1 April 2013 - 31 March 2014 maili Cenk Daldaban, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:22 ; Active Polimer 1 April 2014 - 31 March 2015 maili Ceyda Doyuran, adreslerine Can Basak, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:23 ; Active Polimer 1 April 2015-31 March 2016 v6 maili Ceyda Doyuran, adreslerine Can Basak, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:23 ; Adana &#304;çel Hatay Araç Muayene Hizmetleri Yap&#305;m &#304;&#351;letim Anonim &#350;irketi maili Onur Nis, adreslerine Aysun Gul Kilic, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:24 ; Adapazar&#305; 31 December 2019 Audit maili Sedat Uysal, adreslerine Salim Alyanak, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:25 ; Adel 2016 File Review maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:25 ; Adel 30 June 2015 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:26 ; Adel 30 June 2016 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:26 ; Adel Kalemcilik 2012 maili Baris Dogan, adreslerine Burak Ozpoyraz, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:27 ; ADEL KALEMCILIK 2012 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:27 ; Adel Kalemcilik 2013 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:28 ; Adel Kalemcilik 2016 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:28 ; Adel Kalemcilik 30 June 2013 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:29 ; Adel Kalemcilik 30 June 2014 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:30 ; Adel Kalemcilik 31 December 2014 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:30 ; Adel Kalemcilik 31 December 2015 v6 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:31 ; Adient Turkey Seating 30 September 2018 maili Merve Engin, adreslerine Beste Ortac,Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:31 ; AD&#304;ENT TURKEY SEAT&#304;NG OTOMOT&#304;V LTD. &#350;T&#304;. maili Enver Sahin,Merve Engin, adreslerine Beste Ortac,Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:32 ; Adilbey Holding 2017 Audit maili Ali Yoruk,Mine Zor, adreslerine Gokhan Yuksel,Salim Alyanak, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:32 ; Adilbey Holding 2018 Audit maili Ali Yoruk,Onur Celik, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:33 ; Adilbey Holding 2019 Audit maili Ali Yoruk,Eren Aydin, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:33 ; Adilbey TCMB Audit 31.12.2018 maili Ali Yoruk, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:34 ; ADM Capital Audit FY 20 maili Eren Yilmaz, adreslerine Didem Demer, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:34 ; ADM Capital Audit FY19 maili Nergis Ucuncu, adreslerine Didem Demer, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:35 ; ADM CEECAT Investments Limited Recovery Funds maili Enis Gungor, adreslerine Didem Demer, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:35 ; ADM CEECAT Investments Limited Recovery Funds 2017 maili Cagri Corbaci, adreslerine Didem Demer, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:36 ; Adocim - 30 June 2018 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:36 ; Adocim - 30 June 2019 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:37 ; Adocim - 30 June 2020 maili Erdem Ozdemirel, adreslerine Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:38 ; Adocim - 31 December 2019 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:38 ; Adocim 30 June 2015 maili Erdem Ozdemirel, adreslerine Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:39 ; Adoçim 30 June 2016 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:39 ; Adocim 30 June 2017 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:40 ; Adocim 31 December 2015 v6 maili Erdem Ozdemirel, adreslerine Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:41 ; Adocim 31 December 2016 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:41 ; Adocim 31 December 2017 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:42 ; Adocim 31 December 2018 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:42 ; Adocim BDDK - 2018 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:43 ; Adocim Marmara 31 December 2017 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:43 ; Adocim Marmara 31 December 2018 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:44 ; Adocim Marmara Audit 31 December 2019 maili Erdem Ozdemirel, adreslerine Adnan Akan,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:44 ; Aegon 2014 audit maili Elcin Toygar, adreslerine Talar Gul, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 14:30:45 ; Aegon 2015 audit maili Elcin Toygar, adreslerine Elcin Toygar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:46 ; Aegon 2015 review maili Elcin Toygar, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:46 ; Aegon 2016 audit maili Elcin Toygar, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:47 ; Aegon 2018 Audit maili Pinar Unal, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:47 ; Aegon 2019 Audit maili Emre Saltik,Pinar Unal, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:48 ; Aegon 30 June 2017 review maili Pinar Unal, adreslerine Elcin Toygar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:49 ; Aegon 30 June 2018 Review maili Pinar Unal, adreslerine Elcin Toygar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:49 ; Aegon 30.06.2016 review maili Elcin Toygar, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:50 ; Aegon 31 December 2017 Audit maili Pinar Unal, adreslerine Elcin Toygar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:50 ; Aegon Emeklilik Fonlar&#305; 2014 maili Fatih Aygun, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:51 ; Aegon Emeklilik ve Hayat 30.06.2020 review maili Emre Saltik,Pinar Unal, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:51 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Fonlar&#305; 31 December 2020 maili Merve Altunbek, adreslerine Adnan Akan,Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:52 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Yat&#305;r&#305;m Fonlar&#305; 30 June 2017 maili Suncay Senturk, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:53 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Yat&#305;r&#305;m Fonlar&#305; 30 June 2018 maili Kagan Ozdemir,Nilufer Acar, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:53 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Yat&#305;r&#305;m Fonlar&#305; 30 June 2020 maili Berrak Kahraman,Merve Altunbek, adreslerine Adnan Akan,Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:54 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Yat&#305;r&#305;m Fonlar&#305; 31 December 2015 v6 - Abandoned maili Suncay Senturk, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:54 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Yat&#305;r&#305;m Fonlar&#305; 31 December 2016 maili Suncay Senturk, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 14:30:55 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Yat&#305;r&#305;m Fonlar&#305; 31 December 2017 maili Cagri Corbaci,Suncay Senturk, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:56 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Yat&#305;r&#305;m Fonlar&#305; 31 December 2018 maili Kagan Ozdemir, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:56 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Yat&#305;r&#305;m Fonlar&#305; 31 December 2019 maili Merve Altunbek, adreslerine Adnan Akan,Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:57 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Yat&#305;r&#305;m Fonlar&#305; 31 December 2020 Audit maili Merve Altunbek, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:57 ; Aegon Hayat 30 June 2014 maili Elcin Toygar, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:58 ; Aegon Hayat ve Emeklilik 30.06.2019 Review maili Pinar Unal, adreslerine Adnan Akan,Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:59 ; Aerosol Valf - Coster 2015 v6 maili Zeynep Dogru, adreslerine Beste Ortacxxx,Can Basak, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:30:59 ; Aerosol Valf - Coster 31.12.2012 Audit maili Gorkem Sokullu,Onur Tala, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:00 ; Aerosol Valf - Coster 31.12.2013 Audit maili Burak Yilmaz,Utku Simsek, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:00 ; Aerosol Valf - Coster 31.12.2014 Audit maili Bora Mutlu,Burak Yilmaz, adreslerine Can Basak, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:01 ; Aerzen Makine Review 2014 maili Bora Mutlu, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:01 ; Aerzen Makine Review 2015 v6 maili Deniz Parlak, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:02 ; AES Elektrik 31 December 2012 maili Salim Alyanak,Ufuk Erdur, adreslerine Burak Ozpoyraz,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:03 ; AES Elektrik 31 December 2013 maili Salim Alyanak, adreslerine Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:03 ; AES Elektrik 31 December 2014 maili Baran Yilmaz,Salim Alyanak, adreslerine Burak Ozpoyraz,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:04 ; AES Elektrik 31 December 2015 maili Baran Yilmaz, adreslerine Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:04 ; AES Elektrik 31 December 2016 maili Baran Yilmaz,Yakup Babaoglu, adreslerine Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:05 ; AES File review maili Yakup Babaoglu, adreslerine Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:06 ; AESSeal 31.12.2013 AUP maili Cenk Daldaban, adreslerine Cenk Uslu,Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:06 ; AFM 30 June 2012 Audit maili Baris Duzel,Sertu Tali, adreslerine Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:07 ; Afyon Cimento 30 June 2020 CMB maili Burcu Usta, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:07 ; AFYON CIMENTO SANAYI TURK ANONIM SIRKETI maili Anil Cetinkaya,Selma Corum,Serdar Inanc, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:08 ; AGA Servis Hizmetleri 2015 v6 maili Zeynep Atalay, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:08 ; AGA Servis Hizmetleri Audit 2016 maili Suncay Senturk, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:09 ; AGA Servis Hizmetleri Audit 2017 maili Basak Yazici,Ege Yavas, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:10 ; AGA Servis Hizmetleri Audit 2018 maili Nergis Ucuncu, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:10 ; AGA Servis Hizmetleri Audit 2019 maili Nergis Ucuncu,Taha Toka, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:11 ; AGA Servis Hizmetleri Audit 2020 maili Nergis Ucuncu,Taha Toka, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:12 ; Agency of the Year 2017 maili Ali Erkuru, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:12 ; Agency of the Year 2018 maili Ali Erkuru, adreslerine Beste Ortac, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:13 ; Agis Sagl&#305;k 2013 Statutory Audit maili Enis Gungor, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:13 ; AGIS SAGLIK AUDIT 2012 maili Enis Gungor, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:14 ; Agromey 31 December 2017 Audit maili Burcu Usta, adreslerine Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:15 ; Agromey 31 December 2018 Audit maili Burcu Usta, adreslerine Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:15 ; AGT - BDDK Güvence raporu 2018 maili Nihan Candan, adreslerine Baki Erdal,Mert Sonmezsoy, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 14:31:16 ; AGT 30.06.2019 Review maili Nihan Candan, adreslerine Baki Erdal,Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:17 ; AGT 30.06.2020 Review maili Nihan Candan, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:17 ; AGT AGAC 2015 - v6 maili Anil Cetinkaya, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:18 ; AGT AGAC 2016 maili Anil Cetinkaya,Nihan Candan, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:18 ; AGT A&#287;aç 2019 TCMB maili Nihan Candan, adreslerine Baki Erdal,Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:19 ; Agt Agac 30 June 2016 maili Anil Cetinkaya, adreslerine Mert Sonmezsoy,Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:20 ; AGT Agac Audit 2017 maili Nihan Candan, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:20 ; AGT Agac Audit 2019 maili Nihan Candan, adreslerine Baki Erdal,Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:21 ; AGT Agac review 30 June 2017 maili Nihan Candan, adreslerine Mert Sonmezsoy,Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:22 ; AGT Agac review 30 June 2018 maili Nihan Candan, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:22 ; AGT AGAC TTK 2014 maili Anil Cetinkaya, adreslerine Mert Sonmezsoy,Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:23 ; AGT Agac Turquality 2017 maili Nihan Candan, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:24 ; AGT Audit 2018 maili Nihan Candan, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:24 ; AGT D&#305;&#351; Ticaret Audit 2018 maili Nihan Candan, adreslerine Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:25 ; AGT MANDARIN 2016 AUDIT maili Ozgur Besikcioglu,Ozlem Gencel, adreslerine Mehmet Karakurt, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:25 ; AGT Mandarin 2016 Audit_File Review maili Ozgur Besikcioglu,Ozlem Gencel, adreslerine Mehmet Karakurt, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:26 ; AGT Turquality AUP 2015 maili Nihan Candan, adreslerine Baki Erdal,Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:27 ; AGT Turquality AUP 2016 maili Nihan Candan, adreslerine Baki Erdal,Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:27 ; AGT Turquality AUP 2017 maili Nihan Candan, adreslerine Baki Erdal,Mert Sonmezsoy, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:28 ; AGT Turquality AUP 2018 maili Nihan Candan, adreslerine Mert Sonmezsoy,Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:28 ; AGT Turquality AUP 2019 maili Nihan Candan, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:29 ; AGT-BDDK Güvence raporu 2019 maili Nihan Candan, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:30 ; Agthia Group / Alpin Water Internal Audit Project maili Tugce Ilgar, adreslerine Evren Sezer, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:30 ; Agthia Grup &#304;çecek 2013 File Review maili Zeynep Dogru, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:31 ; Agthia Grup Icecek Audit 2012 maili Cigdem Ozdemir, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:31 ; Agthia Grup Icecek Audit 2013 maili Zeynep Dogru, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:32 ; Agthia Grup Icecek Q1 Interim Review 2013 maili Cigdem Ozdemir, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:33 ; Agthia Grup Icecek Q1 Interim Review 2014 maili Muratcan Aksoy, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:33 ; Agthia Grup Icecek Q2 Interim Review 2013 maili Cigdem Ozdemir,Yusuf Yatkin, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:34 ; Agthia Grup Icecek Q3 Interim Review 2013 maili Yusuf Yatkin, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:35 ; AIESEC -  Türkiye &#304;ktisadi ve Ticari &#304;limler Talebeleri Staj Komitesi Derne&#287;i &#304;ktisadi &#304;&#351;letmesi maili Umit Usta, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:35 ; AIESEC Audit 2014 maili Merve Akcam, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:36 ; AIESEC Audit 2015 maili Gizem Akinci, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:36 ; AIESEC Audit 2017 maili Gizem Akinci, adreslerine Beste Ortac, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:37 ; AIESEC Audit 2018 maili Gizem Akinci,Tugce Ozatay, adreslerine Beste Ortac, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:38 ; AIESEC Audit 2019 maili Tugce Ozatay, adreslerine Beste Ortac, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:38 ; AIG Middle East 31 December 2015 maili Asli Sonmez,Soydan Demiroglu, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:39 ; AIG Middle East 31 December 2016 maili Asli Sonmez,Suncay Senturk, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:40 ; AIG Sigorta 2013 maili Zeynep Atalay, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:40 ; AIG Sigorta 2014 maili Zeynep Atalay, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:41 ; AIG Sigorta 30 June 2014 maili Zeynep Atalay, adreslerine Adnan Akan, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:42 ; AIR Audit FY17 maili Suleyman Ozer, adreslerine Mert Tuten,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:42 ; Air Liquide 2016 Audit maili Zuhal Zeren, adreslerine Cenk Uslu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:43 ; Air Liquide 2017 Audit maili Duygu Sonmez,Ercin Kan,Zuhal Zeren, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:44 ; Air Liquide 2019 TCMB maili Bagdagul Gedik, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:44 ; Air Liquide 31 December 2018 maili Duygu Sonmez,Ercin Kan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:45 ; Air Liquide 31 December 2019 Audit maili Bagdagul Gedik, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:45 ; AIR Telecom Audit 2019 maili Subutay Cankaya, adreslerine Mert Tuten,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:46 ; AIR Turkey maili Subutay Cankaya, adreslerine Mert Tuten,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:47 ; Airties 2012 maili Orhan Ozturk, adreslerine Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:47 ; Airties 2013 maili Orhan Ozturk, adreslerine Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:48 ; Airties 2014 maili Orhan Ozturk, adreslerine Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:48 ; Airties 2015 maili Orhan Ozturk, adreslerine Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:49 ; Airties Audit 2016 maili Onur Akbas, adreslerine Mert Tuten, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:50 ; Airties Audit 2017 maili Onur Akbas, adreslerine Mert Tuten,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:50 ; Airties Audit 2018 maili Onur Akbas,Subutay Cankaya, adreslerine Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:51 ; Airties Audit 2019 maili Subutay Cankaya, adreslerine Gokhan Yuksel,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:52 ; Airties BDDK 2019 maili Subutay Cankaya, adreslerine Gokhan Yuksel,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:52 ; Airties TCMB 2019 maili Subutay Cankaya, adreslerine Gokhan Yuksel,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:53 ; Aisin Otomotiv - 2014 YE maili Zeynep Dogru, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:53 ; Aisin Otomotiv- 2013 YE maili Sinem Korkmaz, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:54 ; Aisin Otomotiv 2018 ITX Customs Audit (AEO) maili Gurur Tulgar, adreslerine Cenk Ulu,Gurur Tulgar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:55 ; Aisin Otomotiv- 31 March 2013 maili Gokhan Turhan, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:55 ; Aisin Otomotiv 31 March 2016 v6 maili Kayhan Serttas, adreslerine Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:56 ; Aisin Otomotiv 31 March 2017 maili Kayhan Serttas, adreslerine Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:56 ; Aisin Otomotiv 31 March 2018 maili Ceyda Doyuran, adreslerine Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:57 ; Aisin Otomotiv 31 March 2019 maili Ceyda Doyuran, adreslerine Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:58 ; Aisin Otomotiv 31 March 2020 maili Ceyda Doyuran, adreslerine Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:58 ; Aisin Otomotiv FY12 Audit maili Gokhan Turhan, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:31:59 ; Ak Den Enerji 30 June 2014 maili Alper Oztunali,Batu Berk, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:00 ; Ak Den Enerji 30.06.2013 maili Belir Yildiz,Utku Simsek, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:00 ; Ak Den Enerji_31.12.2013 maili Batu Berk,Duygu Tokgoz,Emre Serteser, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:01 ; Ak Faktoring A.&#350;. RM Bulgu Takip Denetimi 2018 maili Serkan Ovgu, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:01 ; Ak Faktoring Hizmetleri RM Denetimi 2016 maili Selim Elban,Ugur Sayginer, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:02 ; Ak Faktoring Hizmetleri RM Denetimi 2017 maili Serkan Ovgu, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:03 ; Ak Faktoring RM Denetimi 2018 maili Serkan Ovgu, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:03 ; Ak Faktoring RM Denetimi 2019 maili Serkan Ovgu, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:04 ; Ak Finansal Kiralama 2017 Audit- IFRS maili Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:05 ; Ak Finansal Kiralama 31 December 2017 Audit maili Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:06 ; Ak Finansal Kiralama A.&#350;. 2018 IFRS Audit maili Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:06 ; Ak Finansal Kiralama A.&#350;. 30 June 2019 Review maili Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:07 ; Ak Finansal Kiralama A.&#350;. 30 June 2020 Review maili Kaan Aksoy,Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:08 ; Ak Finansal Kiralama A.&#350;. 31 December 2018 Audit maili Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:08 ; Ak Finansal Kiralama A.&#350;. 31 December 2019 Audit maili Kaan Aksoy,Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:09 ; Ak Finansal Kiralama A.&#350;. 31 December 2020 Audit maili Kaan Aksoy,Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:10 ; Ak Finansal Kiralama A.&#350;. June 2017 Review maili Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:10 ; Ak Finansal Kiralama A.&#350;. June 2018 Review-IFRS maili Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:11 ; Ak Finansal Kiralama June 2018 Review maili Pinar Kayadeviren, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:12 ; AK Portfoy 30 June 2017 Review maili Eren Yilmaz,Ramazan Yuksekkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:12 ; AK Portfoy 30 June 2018 Review maili Eren Yilmaz, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:13 ; AK Portfoy 30 June 2019 Review maili Eren Yetim,Mehmet Kirkbudak, adreslerine Gokce Yasar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:14 ; Ak Portfoy 30 June 2020 Review maili Ender Ellikci, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:14 ; Ak Portföy Tasfiye AKJ Fonu - 14 Kas&#305;m maili Eren Yetim, adreslerine Ozberk Cetinkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:15 ; Ak Portföy Yat&#305;r&#305;m Fonlar&#305; - PZO & PZR Tasfiye Fonlar&#305; 8 July 2020 maili Vahan Alyanakyan, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:15 ; Ak Portfoy Yat&#305;r&#305;m Fonlar&#305; 20 June 2018 (Tasfiye AJS-AJD) maili Ege Yavas,Suncay Senturk, adreslerine Ozberk Cetinkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:16 ; Ak Portfoy Yatirim Fonlari 2017 maili Ege Yavas,Suncay Senturk, adreslerine Ozberk Cetinkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:17 ; Ak Portfoy Yatirim Fonlari 2017 Revize Performans Denetimi maili Ege Yavas,Suncay Senturk, adreslerine Ozberk Cetinkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:17 ; Ak Portföy Yat&#305;r&#305;m Fonlar&#305; 30 Haziran 2018 maili Suncay Senturk, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:18 ; Ak Portfoy Yat&#305;r&#305;m Fonlar&#305; 30 June 2018 maili Ege Yavas,Eren Yetim,Suncay Senturk, adreslerine Ozberk Cetinkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:19 ; Ak Portföy Yat&#305;r&#305;m Fonlar&#305; 30 June 2020 maili Vahan Alyanakyan, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:19 ; Ak Portföy Yat&#305;r&#305;m Fonlar&#305;- ADJ & ACJ Tasfiye Fonlar&#305; 15.05.2019 maili Eren Yetim, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:20 ; Ak Portfoy Yatirim Fonlar&#305; April 2018 (Tasfiye AJO-AIL) maili Ege Yavas,Suncay Senturk, adreslerine Ozberk Cetinkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:21 ; Ak Portföy Yat&#305;r&#305;m Fonlar&#305; PUS&PUY Tasfiye Fonlar&#305; maili Eren Yetim, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:22 ; AK Portföy Yat&#305;r&#305;m Fonu - AMV Tasfiye Fonu 13 Aral&#305;k 2019 maili Eren Yetim, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:22 ; Ak Portföy Yat&#305;r&#305;m Fonu - ARJ Tasfiye Fonu 10 July 2019 maili Eren Yetim, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:23 ; Ak Portföy Yat&#305;r&#305;m Fonu - AUU Tasfiye Fonu 12 November 2019 maili Eren Yetim, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:24 ; Ak Portföy Yönetim A.&#350;. SPK Bilgi Sistemleri 2019 maili Halil Ucak, adreslerine Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:25 ; Ak Portfoy Yonetimi AS 2017 maili Eren Yilmaz, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:26 ; Ak Portfoy Yonetimi AS 2018 maili Eren Yetim, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:26 ; Ak Portfoy Yonetimi AS 2019 maili Mehmet Kirkbudak, adreslerine Gokce Yasar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:27 ; Ak Sigorta A.S. 30 June 2012 Interim Review maili Gokce Yasar, adreslerine Cansen Basaran-Symes, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:28 ; AK Yatirim 30 June 2017 Review maili Eren Yilmaz,Ramazan Yuksekkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:28 ; AK Yatirim 30 June 2018 Review maili Eren Yilmaz, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:29 ; AK Yatirim 30 June 2019 Review maili Eren Yetim,Mehmet Kirkbudak, adreslerine Gokce Yasar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:30 ; Ak Yatirim 30 June 2020 Review maili Ender Ellikci,Mehmet Kirkbudak, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:31 ; Ak Yat&#305;r&#305;m Fonlar&#305; 2019 maili Eren Yetim, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:31 ; Ak Yat&#305;r&#305;m Fonlar&#305; 31.12.2019 maili Eren Yetim, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:32 ; Ak Yat&#305;r&#305;m Menkul De&#287;erler A.&#350;. SPK Bilgi Sistemleri 2019 New maili Halil Ucak, adreslerine Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:33 ; Ak Yat&#305;r&#305;m Menkul De&#287;erler A.&#350;. SPK Bilgi Sistemleri Denetimi 2019 maili Halil Ucak, adreslerine Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:33 ; Ak Yatirim Menkul Degerler AS 2017 maili Eren Yilmaz, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:34 ; Ak Yatirim Menkul Degerler AS 2018 maili Eren Yetim, adreslerine Ramazan Yuksekkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:35 ; Ak Yatirim Menkul Degerler AS 2019 maili Mehmet Kirkbudak, adreslerine Gokce Yasar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:35 ; Ak-Al 2012 Q1 Audit maili Yusuf Yatkin, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:36 ; Ak-Al Q2 2012 maili Yusuf Yatkin, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:37 ; Ak-al Q4 2012 Audit maili Yusuf Yatkin, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:37 ; Ak-Al Review Q312 maili Osman Kisaer,Yusuf Yatkin, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:38 ; AKBANK 2018 BRSA AUDIT maili Halil Ucak,Mehmet Ermurat, adreslerine Talar Gul,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:39 ; Akbank Sand&#305;k 31 December 2017 maili Suncay Senturk, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:40 ; Akbank Sand&#305;k 31 December 2018 maili Suncay Senturk, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:40 ; Akbank Sand&#305;k 31 December 2019 maili Suncay Senturk, adreslerine Gokce Yasar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:41 ; Akbank T.A.S 30 June 2017 Review maili Mehmet Kirkbudak,Ozberk Cetinkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:42 ; Akbank T.A.S 30 June 2018 Review maili Mehmet Kirkbudak,Ozberk Cetinkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:42 ; Akbank T.A.S 30 September 2017 Review maili Mehmet Kirkbudak,Ozberk Cetinkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:43 ; Akbank T.A.S 30 September 2018 Review maili Mehmet Kirkbudak, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:44 ; AKBANK T.A.&#350;. 2019 BRSA AUDIT maili Halil Ucak,Mehmet Onal,Murat Barbaros,Nehir Kalaycioglu, adreslerine Talar Gul,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:45 ; Akbank T.A.S. 30 June 2018 Review Copy - IFRS maili Mehmet Kirkbudak,Ozberk Cetinkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:45 ; Akbank T.A.S. 30 June 2019 Review maili Mehmet Kirkbudak, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:46 ; Akbank T.A.S. 30 June 2020 Review maili Mehmet Kirkbudak,Merve Altunbek, adreslerine Gokce Yasar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:47 ; Akbank T.A.S. 30 September 2019 Review maili Mehmet Kirkbudak,Ozkan Gurel,Selin Dinc, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:47 ; Akbank T.A.S. 30 September 2020 Review maili Mehmet Kirkbudak,Merve Altunbek, adreslerine Gokce Yasar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:48 ; Akbank T.A.&#350;. 31 December 2020 maili Mehmet Kirkbudak,Merve Altunbek, adreslerine Gokce Yasar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:49 ; Akbank T.A.S. 31 March 2017 Review maili Mehmet Kirkbudak,Ozberk Cetinkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:49 ; Akbank T.A.S. 31 March 2018 Review maili Mehmet Kirkbudak,Ozberk Cetinkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:50 ; Akbank T.A.S. 31 March 2019 Review maili Mehmet Kirkbudak, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:51 ; Akbank T.A.S. 31 March 2020 Review maili Mehmet Kirkbudak,Merve Altunbek, adreslerine Gokce Yasar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:51 ; AKBANK TAS 2017 BRSA Audit maili Eren Ayintap,Mehmet Ermurat,Mehmet Onal, adreslerine Talar Gul,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:52 ; AKBANK TAS 2020 BRSA AUDIT maili Halil Ucak,Mehmet Onal,Murat Barbaros, adreslerine Talar Gul,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:52 ; Akbank TAS 31 December 2017 maili Mehmet Kirkbudak,Ozberk Cetinkaya, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:53 ; Akbank TAS 31 December 2018 maili Mehmet Kirkbudak, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:54 ; Akbank TAS 31 December 2018 Copy - IFRS maili Mehmet Kirkbudak, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:55 ; Akbank TAS 31 December 2019 maili Mehmet Kirkbudak,Murat Barbaros,Selin Dinc, adreslerine Gokce Yasar,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:55 ; Akbis G&#305;da 31 December 2019 Audit maili Ezgi Kalaylioglu, adreslerine Salim Alyanak, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:56 ; Akbis G&#305;da 31 December 2020 Audit maili Ezgi Kalaylioglu, adreslerine Salim Alyanak, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:57 ; Akçansa 30 June 2020 maili Irem Selak, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:57 ; Akcansa Cimento 31 December 2020 Audit maili Irem Selak, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:58 ; Akcez 2014 maili Canan Celik,Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:58 ; Akcez 2014 Review maili Zuhal Zeren, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:32:59 ; Akcez 2015 Audit V6 maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:00 ; Akcez 2015 Review maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:00 ; Akcez 2016 Audit maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:01 ; Akcez 2016 File review maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:02 ; Akcez 2016 Review maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:02 ; Akcez 30 April 2013 maili Belir Yildiz,Ufuk Erdur, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:03 ; Akcez 30 June 2013 Review maili Belir Yildiz,Ufuk Erdur, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:04 ; Akcez 30 June 2020 Review maili Bagdagul Gedik,Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:04 ; AkCEZ 31 December 2013 maili Belir Yildiz,Ufuk Erdur, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:05 ; Akcez Audit 2020 maili Bagdagul Gedik,Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:06 ; Akcez MSUGT 2015 maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:06 ; Akdemir AUP - Sept 2012 maili Gulsah Capaci Besikcioglu,Sinem Kullep, adreslerine Mehmet Karakurt,Serdar Inanc,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:07 ; Akdeniz Elektrik 30 June 2015 maili Alper Oztunali,Batu Berk,Janberk Ersan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:08 ; Akdeniz Elektrik 30 June 2016 maili Alper Oztunali,Batu Berk,Janberk Ersan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:09 ; Akdeniz Elektrik 31 December 2015 maili Alper Oztunali,Batu Berk,Janberk Ersan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:10 ; Akdeniz Elektrik 31 December 2016 maili Alper Oztunali,Batu Berk,Janberk Ersan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:10 ; Akdeniz Elektrik_31.12.2014 maili Alper Oztunali,Batu Berk,Janberk Ersan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:11 ; Akdeniz filereview 2016 maili Batu Berk,Janberk Ersan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:12 ; AKEDAS 2012 maili Gokhan Turhan,Sertu Tali, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:13 ; AKEDAS 2012 YE maili Gokhan Turhan, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:13 ; AKEDAS 2014 YE maili Cenk Daldaban, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:14 ; AKEDAS 30 June 2013 maili Burak Gokoglu,Firat Savran,Muratcan Aksoy,Tunc Tasucu,Yasemin Ortaba, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:15 ; AKEDAS 30 June 2014 maili Cenk Daldaban, adreslerine Caglar Surucu,Cenk Daldaban, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:16 ; AKEDAS 30 June 2015 maili Alper Oztunali,Cenk Daldaban, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:16 ; AKEDAS 30 June 2016 maili Alper Oztunali,Anil Cetinkaya,Batu Berk, adreslerine Ediz Gunsel,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:17 ; Akeda&#351; 30.06.2017 maili Cansu Muftuoglu, adreslerine Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:18 ; AKEDA&#350; 31 December 2015 maili Alper Oztunali, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:19 ; AKEDAS 31 December 2016 maili Alper Oztunali,Batu Berk,Cansu Muftuoglu, adreslerine Ediz Gunsel,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:19 ; AKEDA&#350; 31 December 2017 maili Emre Toprak, adreslerine Ediz Gunsel,Eftim Kocaridis,Murat Sancar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:20 ; Akeda&#351; 31 December 2017 file review copy maili Emre Toprak, adreslerine Ediz Gunsel,Eftim Kocaridis,Murat Sancar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:21 ; Akedas FY14 File Review Copy maili Cenk Daldaban, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:21 ; Akedas KPMG file review- 2012 maili Gokhan Turhan, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:22 ; AKEDA&#350; SPC 30.06.2017 maili Cansu Muftuoglu, adreslerine Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:23 ; AKEDAS SPC 31.12.2016 maili Alper Oztunali,Batu Berk,Cansu Muftuoglu, adreslerine Ediz Gunsel,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:23 ; Akedas_30 June 2016_file review maili Alper Oztunali,Anil Cetinkaya,Batu Berk, adreslerine Ediz Gunsel,Eftim Kocaridis, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:24 ; Akenerji 2014 Review maili Zuhal Zeren, adreslerine Ediz Gunsel,Zuhal Zeren, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:25 ; Akenerji 2015 Review maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:25 ; Akenerji 2016 File Review Copy maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:26 ; Akenerji 30 June 2013 Review maili Dilek Erol,Zuhal Zeren, adreslerine Belir Yildiz,Dilek Erol, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:27 ; Akenerji 30 June 2020 Review maili Bagdagul Gedik,Sema Avci, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:27 ; Akenerji 30.06.2012 maili Belir Yildiz,Dilek Erol,Zuhal Zeren, adreslerine Belir Yildiz,Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:28 ; Akenerji 30.06.2016 Review maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:29 ; Akenerji 31 December 2012 maili Belir Yildiz,Dilek Erol,Zuhal Zeren, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:29 ; Akenerji 31 December 2012 Group reporting package review maili Belir Yildiz,Dilek Erol,Zuhal Zeren, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:30 ; Akenerji 31 December 2013 Group Reporting Package Review maili Dilek Erol,Duygu Tokgoz,Zuhal Zeren, adreslerine Dilek Erol,Ediz Gunsel,Zuhal Zeren, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:31 ; Akenerji 31 December 2015 Group reporting package review maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:31 ; Akenerji 31.12.2013 maili Dilek Erol,Duygu Tokgoz,Zuhal Zeren, adreslerine Dilek Erol,Ediz Gunsel,Zuhal Zeren, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:32 ; Akenerji 31.12.2014 maili Zuhal Zeren, adreslerine Caglar Surucu,Zuhal Zeren, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:33 ; Akenerji 31.12.2015 maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:33 ; Akenerji 31.12.2015 Audit V6 maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:34 ; Akenerji 31.12.2016 maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:35 ; Akenerji 31.12.2016 Group Reporting Review maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:35 ; Akenerji Audit 2020 maili Bagdagul Gedik,Sema Avci, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:36 ; Akenerji Subsidiaries EMRA Reporting 31.12.2016 maili Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:37 ; Akfen GYO 2014 maili Gorkem Sokullu, adreslerine Engin Cubukcu, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 14:33:37 ; Akfen GYO 2015 maili Gorkem Sokullu, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:38 ; Akfen GYO 2015 file review maili Gorkem Sokullu, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:39 ; Akfen GYO 30 Haziran 2014 file review maili Gorkem Sokullu, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:40 ; Akfen GYO 30 June 2014 file review maili Gorkem Sokullu, adreslerine Engin Cubukcu,Haluk Yalcin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:40 ; Akfen GYO 31 December 2014 maili Gorkem Sokullu, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:41 ; Akfen GYO 31 December 2015 maili Gorkem Sokullu,Selim Elban, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:41 ; Akfen GYO 31 December 2015 File Review maili Gorkem Sokullu,Selim Elban, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:42 ; AKG GAZBETON 2012 maili Burcu Usta,Tugba Teksal, adreslerine Serdar Inanc,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:43 ; AKG Gazbeton 2012 YE maili Burcu Usta, adreslerine Serdar Inanc,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:43 ; AKG GAZBETON 2013 maili Burcu Usta, adreslerine Mehmet Karakurt,Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:44 ; AKG GAZBETON 2014 maili Burcu Usta,Tugba Teksal, adreslerine Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:45 ; AKG Gazbeton 2016 Audit maili Burcu Usta,Tugba Teksal, adreslerine Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:45 ; AKG Gazbeton 2017 Audit-IFRS Reporting maili Burcu Usta,Tugba Teksal, adreslerine Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:46 ; AKG Gazbeton 31.12.2017 Audit maili Burcu Usta,Tugba Teksal, adreslerine Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:46 ; AKG Gazbeton Audit 2015 V6 maili Tugba Teksal, adreslerine Mehmet Karakurt,Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:47 ; AKG Gazbeton Audit 2018 maili Tugba Teksal, adreslerine Serdar Inanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:48 ; Akgiri&#351;im Müteahhitlik Audit 2014 maili Ali Cenal, adreslerine Burak Ozpoyraz, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:48 ; Akgiri&#351;im Müteahhitlik Audit 2014 - Special Purpose maili Ali Cenal, adreslerine Burak Ozpoyraz, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:49 ; Akgiri&#351;im Müteahhitlik Audit 2015 maili Ali Cenal, adreslerine Burak Ozpoyraz, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:50 ; Akgiri&#351;im Müteahhitlik Audit 2016 maili Kaan Akan, adreslerine Burak Ozpoyraz, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:50 ; Akgiri&#351;im Müteahitlik Audit 2016 File Review maili Kaan Akan, adreslerine Burak Ozpoyraz, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:51 ; Ak&#305;lay D&#305;&#351; Ticaret 31 December 2019 maili Doruk Karol,Furkan Demir,Onur Nis,Ozlem Gencel,Volkan Unluyalvac, adreslerine Murat Sancar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:52 ; Ak&#305;lay D&#305;&#351; Ticaret A.&#350;. 31 December 2017 maili Can Ocal,Emre Toprak, adreslerine Murat Sancar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:52 ; Ak&#305;lay D&#305;&#351; Ticaret A.&#350;. 31 December 2018 maili Can Ocal,Emre Toprak, adreslerine Murat Sancar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:53 ; Akis 30 June 2012 maili Can Basak,Elif Imir, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:53 ; Akis 30 June 2013 maili Can Basak,Elif Imir, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:54 ; Akis 30 June 2014 maili Can Basak, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:55 ; Akis 31 December 2012 maili Can Basak,Elif Imir,Furkan Ozdemir, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:55 ; Akis 31 December 2013 maili Can Basak,Elif Imir, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:56 ; Akis 31 March 2012 maili Can Basak,Elif Imir, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:56 ; Akis GYO 2014 maili Ali Cenal, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:57 ; AKIS GYO 2015 v6 maili Ali Cenal, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:58 ; AKIS GYO 2016 maili Gorkem Sokullu,Rick Spraakman, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:58 ; Aki&#351; GYO 2016 - File Review maili Gorkem Sokullu,Rick Spraakman, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:33:59 ; Aki&#351; GYO 30 June 2020 maili Kaan Akan, adreslerine Baki Erdal, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 14:34:00 ; Aki&#351; GYO 31 December 2020 maili Kaan Akan, adreslerine Baki Erdal, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 14:34:01 ; AKIS GYO June 2015 maili Ali Cenal, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:02 ; AKIS GYO June 2016 maili Ali Cenal, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:02 ; Akkan Enerji ve Madencilik 2020 maili Hande Korkmaz,Onur Nis, adreslerine Aysun Gul Kilic, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:03 ; Akkardan 2012 maili Baran Yilmaz,Ohannes Yalin,Salim Alyanak, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:04 ; Akkardan 2012 maili Baran Yilmaz,Ohannes Yalin,Salim Alyanak, adreslerine Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:04 ; Akkim 2015 Audit maili Sertu Tali, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:05 ; Akkim 2016 File Review maili Ozgun Ozdemir,Sertu Tali, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:06 ; Akkim 30 June 2015 maili Baris Dogan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:06 ; Akkim 31 December 2016 maili Ozgun Ozdemir,Sertu Tali, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:07 ; Akkim 31 December 2016 IFRS maili Ozgun Ozdemir,Sertu Tali, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:08 ; Akkim Audit 2012 maili Aydin Ozguven,Belir Yildiz, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:08 ; Akkim Audit 2013 maili Baris Dogan, adreslerine Baki Erdal,Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:09 ; Akkim Audit 2014 maili Baris Dogan, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:09 ; Ak-Kim Kim. San. ve Tic. A.&#350;. KVKK Uyum Projesi FY18 maili Onur Korucu, adreslerine Cihan Salihoglu,Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:10 ; Akkim Kimya Audit 2020 maili Bagdagul Gedik,Ezgi Yilmaz, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:11 ; Ak-Kim Kimya IA maili Olcay Gun, adreslerine Isil Uysun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:11 ; Akkim Kimya Review 30 June 2020 maili Ezgi Yilmaz, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:12 ; Akkim Review 2012 maili Aydin Ozguven, adreslerine Baki Erdal,Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:13 ; Akkim Review 2013 maili Baris Dogan, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:13 ; Akkim Review 2014 maili Baris Dogan, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:14 ; Akkök 2014 Audit maili Bora Mutlu,Canan Celik,Sertu Tali, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:14 ; Akkök 2016 Audit maili Ozgun Ozdemir,Sertu Tali, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:15 ; Akkök 2016 File Review maili Ozgun Ozdemir,Sertu Tali, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:16 ; Akkök 30 June 2015 Review maili Bora Mutlu,Sertu Tali, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:16 ; Akkök 30 June 2016 Review maili Ozgun Ozdemir,Sertu Tali, adreslerine Baki Erdal,Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:17 ; AKKOK HOLDING 2012 maili Caglar Surucu,Firat Savran, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:18 ; AKKOK HOLDING 2013 maili Caglar Surucu,Firat Savran,Sertu Tali, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:18 ; Akkök Holding 2015 v6 maili Ozgun Ozdemir,Sertu Tali, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:19 ; Akkök Holding 30 June 2020 maili Bagdagul Gedik,Ozgun Ozdemir, adreslerine Ediz Gunsel,Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:20 ; Akkök Holding Audit 2020 maili Bagdagul Gedik,Ozgun Ozdemir, adreslerine Ediz Gunsel,Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:20 ; Akkök Holding Solo 31 December 2016 File Review maili Ozgun Ozdemir,Sertu Tali, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:21 ; Akkök HY'14 Review maili Sertu Tali, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:22 ; Akkök June 2012 Review maili Caglar Surucu,Firat Savran, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:22 ; AKKOK JUNE 2013 REVIEW maili Caglar Surucu,Firat Savran,Sertu Tali, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:23 ; Akkök Solo YE 2015 maili Ozgun Ozdemir,Sertu Tali, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:24 ; Akkök Solo YE 2016 maili Ozgun Ozdemir,Sertu Tali, adreslerine Baki Erdal, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 14:34:25 ; Akkoza Kent Yonetim ve Servis A.S. maili Fatih Aygun, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:25 ; Akkoza Kent Yönetim ve Servis A.S. maili Fatih Aygun, adreslerine Haluk Yalcin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:26 ; Akkoza Kent Yönetim ve Servis A.S. 2018 AuP maili Ali Erkuru, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:27 ; Akkoza Kent Yönetim ve Servis A.S. 2019 AuP maili Ali Erkuru, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:28 ; Akkoza Kent Yönetim ve Servis A.S. 31 December 2016 Agreed Upon maili Fatih Aygun, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:28 ; Akkoza Kent Yönetim ve Servis A.S. 31 December 2017 Agreed Upon maili Ali Erkuru, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:29 ; Akkuyu 31.12.2013 maili Seda Telli, adreslerine Murat Sancar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:30 ; Akkuyu 31.12.2014 maili Seda Telli, adreslerine Murat Sancar,Olga Utkutug, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:30 ; Akkuyu 31.12.2015_V6 maili Seda Telli, adreslerine Murat Sancar,Olga Utkutug, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:31 ; Akkuyu 31.12.2016 maili Berk Kaya,Can Ocal, adreslerine Murat Sancar,Olga Utkutug, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:32 ; Akkuyu Nukleer 2016 File review maili Can Ocal, adreslerine Murat Sancar, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:33 ; Akmerkez 2014 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:33 ; Akmerkez 2016 File Review maili Ceyda Doyuran, adreslerine Ceyda Doyuran,Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:34 ; Akmerkez 30 June 2012 maili Can Basak, adreslerine Cansen Basaran-Symes, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:35 ; Akmerkez 30 June 2013 maili Can Basak, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:36 ; Akmerkez 30 June 2014 maili Can Basak, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:36 ; Akmerkez 30 June 2015 File Review v6 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:37 ; Akmerkez 30 September 2012 maili Can Basak, adreslerine Cansen Basaran-Symes, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:37 ; Akmerkez 30 September 2013 maili Can Basak, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:38 ; Akmerkez 30 September 2014 maili Can Basak, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:39 ; Akmerkez 30 September 2015 File Review v6 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:39 ; Akmerkez 31 December 2012 maili Can Basak, adreslerine Cansen Basaran-Symes, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:40 ; Akmerkez 31 December 2013 maili Can Basak, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:41 ; Akmerkez 31 March 2012 maili Can Basak, adreslerine Cansen Basaran-Symes, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:41 ; Akmerkez 31 March 2013 maili Can Basak, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:42 ; Akmerkez 31 March 2014 maili Can Basak, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:42 ; Akmerkez Gayrimenkul 30 June 2020 maili Ezgi Kalaylioglu, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:43 ; Akmerkez Gayrimenkul 30 September 2020 maili Ezgi Kalaylioglu, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:44 ; Akmerkez Gayrimenkul 31 December 2020 maili Ezgi Kalaylioglu, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:44 ; Akmerkez Gayrimenkul 31 March 2020 maili Ezgi Kalaylioglu, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:45 ; Akmerkez GYO 30 June 2015 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:46 ; Akmerkez GYO 30 September 2015 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:46 ; Akmerkez GYO 30 September 2016 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:47 ; Akmerkez GYO 31 December 2016 maili Ceyda Doyuran, adreslerine Ceyda Doyuran,Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:47 ; Akmerkez GYO 31 March 2015 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:48 ; Akmerkez GYO A.&#350;. 2015 v6 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:49 ; Akmerkez GYO A.&#350;. 30 June 2016 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:49 ; Akmerkez GYO A.&#350;. 31 March 2016 maili Ceyda Doyuran, adreslerine Engin Cubukcu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:50 ; Aköde Elektronik Para ve Ödeme Hizmetleri - 2019 maili Mehmet Kirkbudak, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:51 ; Aköde Elektronik Para ve Ödeme Hizmetleri - 31.12.2019 Audit maili Mehmet Kirkbudak, adreslerine Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:51 ; Akpa 31 December 2016 File Review maili Ozgun Ozdemir,Zuhal Zeren, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:52 ; Akpa Audit 2017 maili Ercin Kan,Guliz Yilmaz, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:52 ; Akpa Audit 2018 maili Ercin Kan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:53 ; Akpa Audit 2019 maili Bagdagul Gedik,Ozgun Ozdemir,Sabahattin Sardogan, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:54 ; Ak-pa TTK 2013 Audit maili Firat Savran, adreslerine Ediz Gunsel, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:54 ; Ak-pa TTK 2014 Audit maili Bora Mutlu,Duygu Tokgoz, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:55 ; Ak-pa TTK 2015 Audit maili Bora Mutlu,Yusuf Yatkin, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:55 ; AK-PA TTK 2015 AUDIT v6 maili Yusuf Yatkin,Zuhal Zeren, adreslerine Caglar Surucu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:56 ; Ak-pa TTK 2016 Audit maili Ceren Ceylan,Ozgun Ozdemir,Zuhal Zeren, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:57 ; AkPortföy Yat&#305;r&#305;m Fonlar&#305; Audit 2018 maili Eren Yetim, adreslerine Ozberk Cetinkaya,Talar Gul, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:58 ; Ak-pres 2014 maili Baris Dogan, adreslerine Beste Ortacxxx, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:58 ; Aksa 2018 BDDK maili Gokcen Arslanturk, adreslerine Cihan Harman, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 14:34:59 ; Aksa 2018 TCMB maili Gokcen Arslanturk, adreslerine Cihan Harman, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/06/2020 16:07:35 ; Acar Menkul-S&#305;zma Testi-2019-FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:35 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Fonlar&#305; 30 June 2019 maili Merve Altunbek, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:36 ; Arçelik A.&#350;. - 15 January 2018 Governmantal Incentive Special Purpose Audit II maili Bora Mutlu,Mustafa Gul,Zeynep Alyanak, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:37 ; B. Braun 2017 maili Yagiz Uysal, adreslerine Beste Ortacxxx,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:38 ; bvt_trprod_may_june_20200723_CP maili Andrei Tiganus, adreslerine Andrei Tiganus, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:39 ; bvt_trprod_may_june_20200723_rf maili Daniel Vrancianu, adreslerine Daniel Vrancianu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:39 ; Ceyhan Polipropilen Üretim A.&#350;. 2019 Audit maili Baran Yilmaz,Yusuf Parlak, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:40 ; Dönper Dan&#305;&#351;manl&#305;k Hiz. A.&#350;  ISAE 3402 2018 maili Albina Sakakli, adreslerine Mehmet Onal,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:41 ; H&#305;zl&#305; Para Odeme Hizmetleri ve Elektronik Para A.S. 2018 BS Denetimi maili Serhat Sener, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:41 ; IC &#304;çta&#351; &#304;n&#351;aat Sanayi ve Ticaret A.&#350;. 2020 Audit maili Ali Erkuru,Yusuf Parlak, adreslerine Burak Ozpoyraz,Gorkem Sokullu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:42 ; Mercedes-S&#305;zma Testi (Notebook)-2019-FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:43 ; Sender Odeme Hizmetleri A.S. BRSA 2017 IT Audit maili Oguzhan Gulen, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:43 ; Tüvturk Kuzey Ta&#351;&#305;t Muayene &#304;stasyonlar&#305; Yap&#305;m ve &#304;&#351;letim A.&#350; maili Gencer Ucan, adreslerine Beste Ortac, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:44 ; Votorantim Q2 Review 2020 maili Volkan Unluyalvac, adreslerine Aysun Gul Kilic,Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:45 ; : Feeder Gemi Acental&#305;&#287;&#305; Ltd. &#350;ti. 31 December 2014 maili Can Ocal, adreslerine Baki Erdal, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:45 ; :imenta&#351; 31 12 2017 Group Reporting File for File Review maili Burcu Usta,Ismail Unal,Pinar Talay, adreslerine Mehmet Karakurt, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:46 ; 2018 &#350;ubat Bulgu Takip Denetimi maili Serhat Sener, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:47 ; 2018-Network Testi maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu,Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:47 ; 2019 Bayramo&#287;lu S&#305;zma Testi - A023 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu,Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:07:48 ; 2019 Moneygram Raporlama Tablosu Kontrolü maili Halil Ucak,Ozkan Kivanc, adreslerine Ozkan Kivanc, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:36 ; Acar Menkul-S&#305;zma Testi-2019-FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:36 ; Aegon Emeklilik ve Hayat A.&#350;. Emeklilik Fonlar&#305; 30 June 2019 maili Merve Altunbek, adreslerine Ramazan Yuksekkaya, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:37 ; Arçelik A.&#350;. - 15 January 2018 Governmantal Incentive Special Purpose Audit II maili Bora Mutlu,Mustafa Gul,Zeynep Alyanak, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:37 ; B. Braun 2017 maili Yagiz Uysal, adreslerine Beste Ortacxxx,Orhan Ozturk, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:38 ; bvt_trprod_may_june_20200723_CP maili Andrei Tiganus, adreslerine Andrei Tiganus, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:39 ; bvt_trprod_may_june_20200723_rf maili Daniel Vrancianu, adreslerine Daniel Vrancianu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:39 ; Ceyhan Polipropilen Üretim A.&#350;. 2019 Audit maili Baran Yilmaz,Yusuf Parlak, adreslerine Sertu Tali, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:40 ; Dönper Dan&#305;&#351;manl&#305;k Hiz. A.&#350;  ISAE 3402 2018 maili Albina Sakakli, adreslerine Mehmet Onal,Tumin Gultekin, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:41 ; H&#305;zl&#305; Para Odeme Hizmetleri ve Elektronik Para A.S. 2018 BS Denetimi maili Serhat Sener, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:41 ; IC &#304;çta&#351; &#304;n&#351;aat Sanayi ve Ticaret A.&#350;. 2020 Audit maili Ali Erkuru,Yusuf Parlak, adreslerine Burak Ozpoyraz,Gorkem Sokullu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:42 ; Mercedes-S&#305;zma Testi (Notebook)-2019-FY20 maili Gokhan Muharremoglu, adreslerine Cihan Salihoglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:42 ; Sender Odeme Hizmetleri A.S. BRSA 2017 IT Audit maili Oguzhan Gulen, adreslerine Oktay Aktolun, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:43 ; Tüvturk Kuzey Ta&#351;&#305;t Muayene &#304;stasyonlar&#305; Yap&#305;m ve &#304;&#351;letim A.&#350; maili Gencer Ucan, adreslerine Beste Ortac, adresleri CC'lenerek gönderildi ; Başarılı
+08/06/2020 16:11:44 ; Votorantim Q2 Review 2020 maili Volkan Unluyalvac, adreslerine Aysun Gul Kilic,Coskun Sen, adresleri CC'lenerek gönderildi ; Başarılı

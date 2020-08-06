@@ -1,0 +1,66 @@
+﻿07/28/2020 16:44:20 ; Log dosyası oluşturuldu ; Başarılı
+07/28/2020 16:44:21 ; Browser açıldı ; Başarılı
+07/28/2020 16:44:31 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+07/28/2020 16:44:34 ; Tablo çekildi ; Başarılı
+07/28/2020 16:45:02 ; Browser açıldı ; Başarılı
+07/28/2020 16:45:11 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+07/28/2020 16:45:14 ; Tablo çekildi ; Başarılı
+07/28/2020 16:45:14 ; Allen&Overy 30 April 2020 maili gönderildi ; Başarılı
+07/28/2020 16:45:15 ; Bakio&#287;lu Holding 2019 Audit maili gönderildi ; Başarılı
+07/28/2020 16:45:16 ; Canan Kozmetik 31 December 2019 File Review maili gönderildi ; Başarılı
+07/28/2020 16:45:16 ; Canan Kozmetik 31 May 2019 File Review maili gönderildi ; Başarılı
+07/28/2020 16:45:17 ; CVK Mineral TCMB 2019 maili gönderildi ; Başarılı
+07/28/2020 16:45:17 ; KFC Audit 2019 maili gönderildi ; Başarılı
+07/28/2020 16:45:18 ; L'oreal 31 May 2019_File Review maili gönderildi ; Başarılı
+07/28/2020 16:45:18 ; Loreal Turkey 31 December 2019 File Review maili gönderildi ; Başarılı
+07/28/2020 16:45:19 ; Lukoil Audit 2019 maili gönderildi ; Başarılı
+07/28/2020 16:45:20 ; Marzinc 31 December 2019 Annual Report maili gönderildi ; Başarılı
+07/28/2020 16:45:20 ; Meta Nikel 31.12.2019 TCC Reporting maili gönderildi ; Başarılı
+07/28/2020 16:45:21 ; Rönesans Enerji 2019 TCMB maili gönderildi ; Başarılı
+07/28/2020 16:45:21 ; T Dinamik TCMB 2019 maili gönderildi ; Başarılı
+07/28/2020 16:45:22 ; Toyota Otomotiv 31 Mart 2020 TCMB maili gönderildi ; Başarılı
+07/28/2020 16:45:22 ; Çalışma başarıyla sona erdi ; Başarılı
+07/28/2020 16:55:21 ; Browser açıldı ; Başarılı
+07/28/2020 17:11:57 ; Browser açıldı ; Başarılı
+07/28/2020 17:13:29 ; Browser açıldı ; Başarılı
+07/28/2020 17:13:30 ; Siteye erişildi ; Başarılı
+07/28/2020 17:13:39 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+07/28/2020 17:13:41 ; Tablo çekildi ; Başarılı
+07/28/2020 17:13:42 ; Allen&Overy 30 April 2020 maili gönderildi ; Başarılı
+07/28/2020 17:13:43 ; Bakio&#287;lu Holding 2019 Audit maili gönderildi ; Başarılı
+07/28/2020 17:13:43 ; Canan Kozmetik 31 December 2019 File Review maili gönderildi ; Başarılı
+07/28/2020 17:13:44 ; Canan Kozmetik 31 May 2019 File Review maili gönderildi ; Başarılı
+07/28/2020 17:13:44 ; CVK Mineral TCMB 2019 maili gönderildi ; Başarılı
+07/28/2020 17:13:45 ; KFC Audit 2019 maili gönderildi ; Başarılı
+07/28/2020 17:13:45 ; L'oreal 31 May 2019_File Review maili gönderildi ; Başarılı
+07/28/2020 17:13:46 ; Loreal Turkey 31 December 2019 File Review maili gönderildi ; Başarılı
+07/28/2020 17:13:46 ; Lukoil Audit 2019 maili gönderildi ; Başarılı
+07/28/2020 17:13:47 ; Marzinc 31 December 2019 Annual Report maili gönderildi ; Başarılı
+07/28/2020 17:13:47 ; Meta Nikel 31.12.2019 TCC Reporting maili gönderildi ; Başarılı
+07/28/2020 17:13:48 ; Rönesans Enerji 2019 TCMB maili gönderildi ; Başarılı
+07/28/2020 17:13:48 ; T Dinamik TCMB 2019 maili gönderildi ; Başarılı
+07/28/2020 17:13:49 ; Toyota Otomotiv 31 Mart 2020 TCMB maili gönderildi ; Başarılı
+07/28/2020 17:13:49 ; Çalışma başarıyla sona erdi ; Başarılı
+07/28/2020 17:14:42 ; Browser açıldı ; Başarılı
+07/28/2020 17:14:42 ; Siteye erişildi ; Başarılı
+07/28/2020 17:14:52 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+07/28/2020 17:14:54 ; Tablo çekildi ; Başarılı
+07/28/2020 17:14:55 ; Allen&Overy 30 April 2020 maili gönderildi ; Başarılı
+07/28/2020 17:14:57 ; Bakio&#287;lu Holding 2019 Audit maili gönderildi ; Başarılı
+07/28/2020 17:14:58 ; Canan Kozmetik 31 December 2019 File Review maili gönderildi ; Başarılı
+07/28/2020 17:15:00 ; Canan Kozmetik 31 May 2019 File Review maili gönderildi ; Başarılı
+07/28/2020 17:15:01 ; CVK Mineral TCMB 2019 maili gönderildi ; Başarılı
+07/28/2020 17:15:02 ; KFC Audit 2019 maili gönderildi ; Başarılı
+07/28/2020 17:15:04 ; L'oreal 31 May 2019_File Review maili gönderildi ; Başarılı
+07/28/2020 17:15:04 ; Loreal Turkey 31 December 2019 File Review maili gönderildi ; Başarılı
+07/28/2020 17:15:05 ; Lukoil Audit 2019 maili gönderildi ; Başarılı
+07/28/2020 17:15:06 ; Marzinc 31 December 2019 Annual Report maili gönderildi ; Başarılı
+07/28/2020 17:15:07 ; Meta Nikel 31.12.2019 TCC Reporting maili gönderildi ; Başarılı
+07/28/2020 17:15:08 ; Rönesans Enerji 2019 TCMB maili gönderildi ; Başarılı
+07/28/2020 17:15:10 ; T Dinamik TCMB 2019 maili gönderildi ; Başarılı
+07/28/2020 17:15:10 ; Toyota Otomotiv 31 Mart 2020 TCMB maili gönderildi ; Başarılı
+07/28/2020 17:15:10 ; Çalışma başarıyla sona erdi ; Başarılı
+07/28/2020 17:15:36 ; Browser açıldı ; Başarılı
+07/28/2020 17:15:37 ; Siteye erişildi ; Başarılı
+07/28/2020 17:16:23 ; Browser açıldı ; Başarılı
+07/28/2020 17:16:53 ; Siteye erişilemedi. Çalışma durduruldu ; 

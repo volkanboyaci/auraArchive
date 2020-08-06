@@ -1,0 +1,97 @@
+﻿08/05/2020 13:21:41 ; Log dosyası oluşturuldu ; Başarılı
+08/05/2020 13:21:42 ; Browser açıldı ; Başarılı
+08/05/2020 13:22:12 ; Siteye erişilemedi. Çalışma durduruldu ; 
+08/05/2020 13:28:36 ; Browser açıldı ; Başarılı
+08/05/2020 13:29:06 ; İnternet bağlantısı yok. Siteye erişilemedi. Çalışma durduruldu ; 
+08/05/2020 13:41:22 ; Browser açıldı ; Başarılı
+08/05/2020 13:41:52 ; İnternet bağlantısı yok. Siteye erişilemedi. Çalışma durduruldu ; 
+08/05/2020 13:53:20 ; Browser açıldı ; Başarılı
+08/05/2020 13:53:23 ; Siteye erişildi ; Başarılı
+08/05/2020 13:53:32 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/05/2020 13:53:35 ; Tablo çekildi ; Başarılı
+08/05/2020 13:53:36 ; Green Chemicals 2019 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 13:53:36 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 15:48:49 ; Browser açıldı ; Başarılı
+08/05/2020 15:48:52 ; Siteye erişildi ; Başarılı
+08/05/2020 15:49:01 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/05/2020 15:49:04 ; Tablo çekildi ; Başarılı
+08/05/2020 15:49:05 ; Green Chemicals 2019 maili gönderilemedi ; Başarısız
+08/05/2020 15:49:46 ; Browser açıldı ; Başarılı
+08/05/2020 15:49:47 ; Siteye erişildi ; Başarılı
+08/05/2020 15:49:57 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/05/2020 15:49:59 ; Tablo çekildi ; Başarılı
+08/05/2020 15:50:01 ; Green Chemicals 2019 maili gönderilemedi ; Başarısız
+08/05/2020 15:51:20 ; Browser açıldı ; Başarılı
+08/05/2020 15:51:21 ; Siteye erişildi ; Başarılı
+08/05/2020 15:51:30 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/05/2020 15:51:33 ; Tablo çekildi ; Başarılı
+08/05/2020 15:51:35 ; Green Chemicals 2019 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 15:51:35 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 16:06:51 ; Browser açıldı ; Başarılı
+08/05/2020 16:06:55 ; Siteye erişildi ; Başarılı
+08/05/2020 16:07:04 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/05/2020 16:07:07 ; Tablo çekildi ; Başarılı
+08/05/2020 16:07:08 ; Green Chemicals 2019 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 16:07:08 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 16:15:05 ; Browser açıldı ; Başarılı
+08/05/2020 16:15:06 ; Siteye erişildi ; Başarılı
+08/05/2020 16:15:15 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/05/2020 16:15:17 ; Tablo çekildi ; Başarılı
+08/05/2020 16:15:19 ; Green Chemicals 2019 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 16:15:19 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 16:16:12 ; Browser açıldı ; Başarılı
+08/05/2020 16:16:12 ; Siteye erişildi ; Başarılı
+08/05/2020 16:16:21 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/05/2020 16:16:23 ; Tablo çekildi ; Başarılı
+08/05/2020 16:16:25 ; Green Chemicals 2019 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 16:16:25 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 16:17:08 ; Browser açıldı ; Başarılı
+08/05/2020 16:17:08 ; Siteye erişildi ; Başarılı
+08/05/2020 16:17:17 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/05/2020 16:17:20 ; Tablo çekildi ; Başarılı
+08/05/2020 16:17:21 ; Green Chemicals 2019 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 16:17:21 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 16:18:40 ; Browser açıldı ; Başarılı
+08/05/2020 16:18:40 ; Siteye erişildi ; Başarılı
+08/05/2020 16:18:47 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/05/2020 16:18:49 ; Tablo çekildi ; Başarılı
+08/05/2020 16:18:50 ; Green Chemicals 2019 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 16:18:51 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 16:25:46 ; Browser açıldı ; Başarılı
+08/05/2020 16:25:46 ; Siteye erişildi ; Başarılı
+08/05/2020 16:25:56 ; Tablo çekildi ; Başarılı
+08/05/2020 16:25:57 ; There is no data to be displayed. maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 16:25:57 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 16:26:30 ; Browser açıldı ; Başarılı
+08/05/2020 16:26:31 ; Siteye erişildi ; Başarılı
+08/05/2020 16:26:41 ; Tablo çekildi ; Başarılı
+08/05/2020 16:26:42 ; There is no data to be displayed. maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 16:26:42 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 16:30:23 ; Browser açıldı ; Başarılı
+08/05/2020 16:30:24 ; Siteye erişildi ; Başarılı
+08/05/2020 16:30:33 ; Tablo çekildi ; Başarılı
+08/05/2020 16:30:35 ; Aura Platinum UAT testing March 2020 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 16:30:35 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 16:51:33 ; Browser açıldı ; Başarılı
+08/05/2020 16:51:34 ; Siteye erişildi ; Başarılı
+08/05/2020 16:51:45 ; Tablo çekildi ; Başarılı
+08/05/2020 16:51:45 ; Tablo çekilemedi ; Başarısız
+08/05/2020 16:51:46 ; Aura Platinum UAT testing March 2020 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 16:51:46 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 17:09:18 ; Browser açıldı ; Başarılı
+08/05/2020 17:09:21 ; Siteye erişildi ; Başarılı
+08/05/2020 17:09:30 ; Tablo çekildi ; Başarılı
+08/05/2020 17:09:31 ; Anadolu Cam 2012 maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 17:09:31 ; Anadolu Cam 2012 File Review maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 17:09:31 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 17:20:19 ; Browser açıldı ; Başarılı
+08/05/2020 17:20:19 ; Siteye erişildi ; Başarılı
+08/05/2020 17:20:28 ; Tablo çekildi ; Başarılı
+08/05/2020 17:20:28 ; Tablo çekilemedi ; Başarısız
+08/05/2020 17:20:29 ; CC Playground maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 17:20:30 ; Çalışma başarıyla sona erdi ; Başarılı
+08/05/2020 17:21:10 ; Browser açıldı ; Başarılı
+08/05/2020 17:21:10 ; Siteye erişildi ; Başarılı
+08/05/2020 17:21:19 ; Tablo çekildi ; Başarılı
+08/05/2020 17:21:20 ; CC Playground maili gönderildi. İlgili kişiler mail log dosyasında ; Başarılı
+08/05/2020 17:21:20 ; Çalışma başarıyla sona erdi ; Başarılı

@@ -1,0 +1,18 @@
+﻿08/05/2020 13:41:20 ; Mail log dosyası oluşturuldu ; Başarılı
+08/05/2020 13:53:36 ; Green Chemicals 2019 maili Murat Turkyilmaz, adreslerine Ediz Gunsel,Ozgur Besikcioglu, adresleri CC'lenerek  gönderildi ; Başarılı
+08/05/2020 15:49:05 ; Green Chemicals 2019 maili Murat Turkyilmaz, adreslerine Ediz Gunsel,Ozgur Besikcioglu, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/05/2020 15:50:01 ; Green Chemicals 2019 maili Murat Turkyilmaz, adreslerine Ediz Gunsel,Ozgur Besikcioglu, adresleri CC'lenerek  GÖNDERİLEMEDİ ; Başarısız
+08/05/2020 15:51:35 ; Green Chemicals 2019 maili Murat Turkyilmaz, adreslerine Ediz Gunsel,Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 16:07:08 ; Green Chemicals 2019 maili Murat Turkyilmaz, adreslerine Ediz Gunsel,Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 16:15:19 ; Green Chemicals 2019 maili Murat Turkyilmaz, adreslerine Ediz Gunsel,Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 16:16:25 ; Green Chemicals 2019 maili Murat Turkyilmaz, adreslerine Ediz Gunsel,Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 16:17:21 ; Green Chemicals 2019 maili Murat Turkyilmaz, adreslerine Ediz Gunsel,Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 16:18:50 ; Green Chemicals 2019 maili Murat Turkyilmaz, adreslerine Ediz Gunsel,Ozgur Besikcioglu, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 16:25:57 ; There is no data to be displayed. maili There is no data to be displayed., adreslerine There is no data to be displayed., adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 16:26:42 ; There is no data to be displayed. maili There is no data to be displayed., adreslerine There is no data to be displayed., adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 16:30:35 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,...,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 16:51:46 ; Aura Platinum UAT testing March 2020 maili Burcin Erdenler,Damla Altun,Nihan Candan,Omer Yildirim,Orsan Bulut,Selma Corum,Sercan Candan,Sinem Atak,Ugur Cambaz, adreslerine Selma Corum, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 17:09:31 ; Anadolu Cam 2012 maili Bedriye Akyol,Burak Gokoglu,Caglar Sonmezturk,Cansu Aslan,Dilara Engil,Samet Cinar,Tuba Celik, adreslerine Can Basak,Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 17:09:31 ; Anadolu Cam 2012 File Review maili Bedriye Akyol,Burak Gokoglu,Caglar Sonmezturk,Cansu Aslan,Dilara Engil,Gokcen Arslanturk,Samet Cinar,Tuba Celik, adreslerine Can Basak,Gokhan Yuksel, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 17:20:29 ; CC Playground maili Ali Yildirim,Baris Dogan,Bugra Bediz,Burak Elvan,Damla Yildiz,Didem Tusel,Gokcen Arslanturk,Gorkem Mizrak,Gozde Demircan,Hakan Cebeci,Omer Yildirim,Vahan Alyanakyan, adreslerine Baris Dogan, adresleri CC'lenerek gönderildi ; Başarılı
+08/05/2020 17:21:20 ; CC Playground maili Ali Yildirim,Baris Dogan,Bugra Bediz,Burak Elvan,Damla Yildiz,Didem Tusel,Gokcen Arslanturk,Gorkem Mizrak,Gozde Demircan,Hakan Cebeci,Omer Yildirim,Vahan Alyanakyan, adreslerine Baris Dogan, adresleri CC'lenerek gönderildi ; Başarılı

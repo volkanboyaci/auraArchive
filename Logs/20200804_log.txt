@@ -1,0 +1,21 @@
+﻿08/04/2020 11:00:33 ; Log dosyası oluşturuldu ; Başarılı
+08/04/2020 11:00:38 ; Browser açıldı ; Başarılı
+08/04/2020 11:00:43 ; Siteye erişildi ; Başarılı
+08/04/2020 11:00:54 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/04/2020 11:00:56 ; Tablo çekildi ; Başarılı
+08/04/2020 11:00:57 ; Ay Marka Magazacilik Audit 2019 Faaliyet Raporu&TCMB maili gönderildi ; Başarılı
+08/04/2020 11:00:58 ; Boyner Holding 2019 Audit TCMB maili gönderildi ; Başarılı
+08/04/2020 11:00:58 ; Eren Perakende - 2019 FR maili gönderildi ; Başarılı
+08/04/2020 11:00:58 ; Çalışma başarıyla sona erdi ; Başarılı
+08/04/2020 11:03:22 ; Browser açıldı ; Başarılı
+08/04/2020 11:03:22 ; Siteye erişildi ; Başarılı
+08/04/2020 11:03:31 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/04/2020 11:03:33 ; Tablo çekildi ; Başarılı
+08/04/2020 11:03:34 ; Ay Marka Magazacilik Audit 2019 Faaliyet Raporu&TCMB maili gönderildi ; Başarılı
+08/04/2020 11:03:35 ; Boyner Holding 2019 Audit TCMB maili gönderildi ; Başarılı
+08/04/2020 11:03:35 ; Eren Perakende - 2019 FR maili gönderildi ; Başarılı
+08/04/2020 11:03:35 ; Çalışma başarıyla sona erdi ; Başarılı
+08/04/2020 11:06:22 ; Browser açıldı ; Başarılı
+08/04/2020 11:06:22 ; Siteye erişildi ; Başarılı
+08/04/2020 11:06:31 ; Önceki gün arşivlenenler filtrelendi ; Başarılı
+08/04/2020 11:06:34 ; Tablo çekildi ; Başarılı
